@@ -1,6 +1,6 @@
 ## License
 
-This repository is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE).
+This repository is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE.md).
 
 You are free to:
 - Share — copy and redistribute the material
