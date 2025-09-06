@@ -9,11 +9,6 @@ Welcome! This repository contains ~~overcomplicated~~ study notes to ~~hopefully
 Might add notes for CISSP as well in the future (if i ever passed it)
 
 --- 
-## Code of Conduct
-
-We sincerely hopes that you can  follow our [Code of Conduct](CODE_OF_CONDUCT.md) to foster an inclusive and respectful community and would appreciate if you review it before using the notes or contributing.
-
----
 ## How to Use These Notes
 
 - You can read the notes directly on GitHub or clone the repo:
