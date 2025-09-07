@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "InsertName2468.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "InsertName2468"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "CONTRIBUTING.md",
     "README.md",
+    "InsertName2468.md",
+    "CONTRIBUTING.md",
     "Preparations/Introduction to Programming Languages/C++/Untitled.md",
     "Preparations/Introduction to Programming Languages/Python/Untitled.md",
     "Preparations/Introduction to Programming Languages/C#/Untitled.md",
@@ -211,7 +212,6 @@
     "Introduction Git and Github/git-cheat-sheet-education.pdf",
     "Welcome to The Overcomplicated OSCP.md",
     "Git and Github/Git Command Cheatsheet.md",
-    "Introduction Git and Github",
-    "Git and Github Fundamentals/Introduction Video to Git and Github.md"
+    "Introduction Git and Github"
   ]
 }
