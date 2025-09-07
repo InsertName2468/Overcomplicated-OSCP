@@ -20,6 +20,7 @@ Please **do not** copy-paste proprietary or copyrighted content (e.g., from offi
 ## Ways to Contribute
 
 - Fix typos, grammar, or formatting issues.
+- Adds localization support
 - Improve clarity or explanations of complex topics.
 - Add new sections or missing topics.
 - Update outdated information.

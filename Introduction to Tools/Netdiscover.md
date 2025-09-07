@@ -9,3 +9,10 @@ Netdiscover can also be used to inspect your network ARP traffic, or find networ
 Netdiscover uses the OUI table to show the vendor of the each MAC address discovered and is very useful for security checks or in pentests. 
 
 ---
+
+## How to use Netdiscover?
+
+First let's cover several common flags that we'll use
+```bash
+
+```

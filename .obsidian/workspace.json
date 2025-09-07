@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preparations/Kali Fundamentals/Introduction to Tools/Netdiscover.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Netdiscover"
+              "title": "README"
             }
           }
         ]
@@ -177,32 +177,41 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Preparations/Having a Healthy Mindset/Linux Jokes.md",
-    "Preparations/Having a Healthy Mindset/Having a Healthy Mindset.md",
-    "Preparations/Kali Fundamentals/Navigating in Kali.md",
-    "Preparations/Having a Healthy Mindset",
-    "Preparations/Kali Fundamentals/Introduction to Tools/Netdiscover.md",
+    "CONTRIBUTING.md",
     "README.md",
-    "Preparations/Kali Fundamentals/Introduction to Tools/Nmap.md",
-    "Preparations/Kali Fundamentals/Introduction to Tools",
+    "Preparations/Introduction to Programming Languages/C++/Untitled.md",
+    "Preparations/Introduction to Programming Languages/Python/Untitled.md",
+    "Preparations/Introduction to Programming Languages/C#/Untitled.md",
+    "Preparations/Introduction to Programming Languages/Placeholder.md",
+    "Preparations/Introduction to Programming Languages/C#",
+    "Preparations/Introduction to Programming Languages/C++",
+    "Preparations/Introduction to Programming Languages/Python",
+    "Introduction to Tools/Netdiscover.md",
+    "Introduction to Tools/Hashcat.md",
+    "Introduction to Tools/Metasploit-Framework.md",
+    "Introduction to Tools/Nmap.md",
+    "Preparations/Introduction to Git/Simple Git Cheat Sheet.md",
+    "LICENSE.md",
+    "Preparations/Having a Healthy Mindset/Linux Jokes.md",
+    "Preparations/Having a Healthy Mindset/Programmer Jokes.md",
+    "Preparations/Kali Fundamentals/Navigating in Kali.md",
+    "Preparations/Introduction to Git",
+    "Introduction to Tools/Cheat Sheets/Hashcat Cheat Sheet.md",
+    "Introduction to Tools/Cheat Sheets",
+    "Preparations/Having a Healthy Mindset/Having a Healthy Mindset.md",
+    "Preparations/Having a Healthy Mindset",
+    "Introduction to Tools",
     "read.md",
     "Preparations/Kali Fundamentals/Advanced Kali Commands Cheatsheet.md",
     "Preparations/Kali Fundamentals/Pentesting Commands Cheatsheet.md",
-    "CONTRIBUTING.md",
     "Preparations",
-    "Preparations/Python Fundamentals/Placeholder.md",
     "Introduction Git and Github/Cheatsheet for Git.md",
     "Introduction Git and Github/Placeholder.md",
     "CODE_OF_CONDUCT.md",
     "Introduction Git and Github/git-cheat-sheet-education.pdf",
-    "LICENSE.md",
     "Welcome to The Overcomplicated OSCP.md",
     "Git and Github/Git Command Cheatsheet.md",
     "Introduction Git and Github",
-    "Git and Github Fundamentals/Introduction Video to Git and Github.md",
-    "Git and Github Fundamentals",
-    "create a link.md",
-    "Preparations/Kali Fundamentals",
-    "Preparations/Python Fundamentals"
+    "Git and Github Fundamentals/Introduction Video to Git and Github.md"
   ]
 }

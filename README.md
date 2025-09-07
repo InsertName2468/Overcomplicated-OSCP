@@ -1,3 +1,8 @@
+# To Anyone Who Stumbled Upon This Repository:
+## This repository is still in its early stage of development, which mean you might be 3-5 years too early. Please wait until it's complete before submitting any issue or pull request as I wont have the time to view them one by one for now
+
+------
+
 # Welcome to Overcomplicated OSCP
 
 Welcome! This repository contains ~~overcomplicated~~ study notes to ~~hopefully~~ help you prepare for three key cybersecurity certifications:
