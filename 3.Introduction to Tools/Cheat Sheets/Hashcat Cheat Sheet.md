@@ -97,5 +97,3 @@
     
 
 ---
-
-⚠️ **Reminder:** Only use Hashcat on files you own or have explicit permission to test. Unauthorized cracking is illegal.

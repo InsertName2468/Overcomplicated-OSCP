@@ -32,5 +32,9 @@ Russian roulette
 ```
 
 ---
+**5.**
+Why are linux geeks very introvertish ? Because they never get out of their shell
+
+---
 
 >Have some [[Programmer Jokes]] too!

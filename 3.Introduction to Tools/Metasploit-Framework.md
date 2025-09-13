@@ -19,7 +19,21 @@ metasploit-framework
 	├── exploits #exploits module
 	├── payloads #scripts to execute when 
 	├── post
-	├── encoders
+	├── encoders #encodes payloads to decrease the probability of being detected
 	├── evasion #evasive module used to avoid antivirus detection 
 	├── nops
 ```
+
+---
+## Metasploit Framework Commands
+Here's a list of common used MSF commands
+`help` / `?` : Displays the help menu
+```bash
+msf > show <module> : #Shows the modules such as exploits, auxiliary and payloads
+show all       show encoders     show options     show plugin     show auxiliary
+show exploits  show nops         show post 
+```
+`search <query>` : Used to search certain keywords
+`use` : Use a module from the search query or directly by its name
+`favorite` : Adds a module to favorite list 
+`favorites` : Prints the favorite list
