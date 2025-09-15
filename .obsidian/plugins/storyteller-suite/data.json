@@ -1,0 +1,30 @@
+{
+  "stories": [],
+  "activeStoryId": "",
+  "galleryUploadFolder": "StorytellerSuite/GalleryUploads",
+  "galleryData": {
+    "images": []
+  },
+  "groups": [],
+  "showTutorial": true,
+  "language": "en",
+  "enableCustomEntityFolders": false,
+  "storyRootFolderTemplate": "",
+  "characterFolderPath": "",
+  "locationFolderPath": "",
+  "eventFolderPath": "",
+  "itemFolderPath": "",
+  "referenceFolderPath": "",
+  "chapterFolderPath": "",
+  "sceneFolderPath": "",
+  "enableOneStoryMode": false,
+  "oneStoryBaseFolder": "StorytellerSuite",
+  "defaultTimelineGroupMode": "none",
+  "defaultTimelineZoomPreset": "none",
+  "defaultTimelineStack": true,
+  "defaultTimelineDensity": 50,
+  "showTimelineLegend": true,
+  "allowRemoteImages": true,
+  "sanitizedSeedData": true,
+  "customFieldsMode": "flatten"
+}
