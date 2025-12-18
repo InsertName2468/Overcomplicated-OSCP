@@ -1,0 +1,103 @@
+## Lesson 1: What is C++?
+
+**C++ is a compiled language.**
+
+That means:
+
+- You write **source code** (`.cpp`)    
+- A **compiler** turns it into a program your computer can run    
+
+Think of it like:
+
+`C++ code → Compiler → Program`
+
+C++ is used for:
+
+- Games 🎮
+- Operating systems    
+- Game engines    
+- High-performance apps    
+
+---
+
+## Lesson 2: Your first C++ program
+
+Here is the most basic C++ program:
+
+```
+#include <iostream> 
+ int main() {
+      std::cout << "Hello, world!" << std::endl;
+      return 0; 
+}
+```
+
+
+Let’s go **line by line**.
+
+---
+
+### 1️⃣ `#include <iostream>`
+
+- This tells C++:  
+    **“I want to use input/output tools”**
+    
+- `iostream` lets us use:
+    
+    - `std::cout` → print text
+        
+    - `std::cin` → read input
+        
+
+Think of it like importing tools 📦
+
+---
+
+### 2️⃣ `int main()`
+
+- Every C++ program **starts running here**    
+- `main` is the **entry point**    
+- `int` means the program returns a number to the system    
+
+You can think of `main()` as:
+
+> “Start the program here.”
+
+---
+
+### 3️⃣ `{ ... }`
+
+Curly braces define a **block of code**  
+Everything inside runs **in order**.
+
+---
+
+### 4️⃣ `std::cout << "Hello, world!" << std::endl;`
+
+- `std::cout` → output (print)
+    
+- `<<` → send data to output
+    
+- `"Hello, world!"` → text
+    
+- `std::endl` → new line
+    
+
+This line means:
+
+> Print `Hello, world!` and move to the next line.
+
+---
+
+### 5️⃣ `return 0;`
+
+- Ends the program    
+- `0` means **“success”**    
+
+---
+
+## Very important rules (early habit)
+
+- Every statement ends with `;`    
+- C++ is **case-sensitive**    
+- Code runs **top to bottom**
